@@ -3,8 +3,5 @@
 # 2. ** operator returns the value of first variable to the power of 2nd variable
 # 3. ^ operator is XOR value means it returns the value of 1 if two values are different
 
-# Calculate area of a circle
-r = int(input("Enter the radius of a circle\n"))
-area = 3.14*(r**2)
-print(area)
+
 
